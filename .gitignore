@@ -1,0 +1,48 @@
+# ---- 通用 ----
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.user
+*.suo
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ---- Node ----
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# ---- Java / Gradle / Maven ----
+*.class
+*.jar
+target/
+.gradle/
+out/
+
+# ---- C / C++ ----
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# ---- 其他 ----
+*.zip
+*.rar
+*.7z
