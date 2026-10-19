@@ -8,6 +8,8 @@
 - 仓库位置：`D:\宁致远\git-repo`
 - 默认分支：`main`
 
+> 详细的 GitHub 上手教程见 [GitHub使用教程.md](GitHub使用教程.md)。
+
 ## 常用命令
 
 ```bash
